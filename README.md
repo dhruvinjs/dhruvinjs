@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruvinjs
 - 👀 I’m interested in contributing in coding projects
-- 🌱 I’m currently learning MCA Fisrt year
+- 🌱 I’m currently learning MCA First year
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me ...via email 
 
