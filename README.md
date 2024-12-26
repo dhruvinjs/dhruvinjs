@@ -1,33 +1,43 @@
-<h2 align="left">Hi 👋! My name is Dhruvin J Soni and I'm a Full-stack Dev, from India</h2>
+## Hi there! 👋
 
-###
+I'm Dhruvin, a passionate coding enthusiast with a goal of becoming a honored one in software development
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
+## About Me
 
-###
+I'm based in Pune, Maharashtra, and I have a strong dedication to learning and improving my programming skills. I love exploring new technologies and working on exciting projects.
 
-<div align="left">
-  <a href="dhruvin1055@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/dhruvinj-soni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/678890046702616587" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+## Skills & Technologies
 
-###
+nodejs,react,mysql,mongodb
+
+## Top Projects
+
+- [ClothEcommerce](https://github.com/dhruvinjs/ClothEcommerce) - A simple e-commerce website. ⭐️ 0 stars, Primary Language: JavaScript
+- [WatchEcom](https://github.com/dhruvinjs/WatchEcom) - An e-commerce platform for watches. ⭐️ 0 stars, Primary Language: JavaScript
+- [ExpenseTrackerApi](https://github.com/dhruvinjs/ExpenseTrackerApi) - Backend public APIs for expense tracking. ⭐️ 0 stars, Primary Language: JavaScript
+- [Blogs](https://github.com/dhruvinjs/Blogs) - A repository designed to strengthen foundational skills in various programming languages. ⭐️ 3 stars, Primary Language: Not specified
+- [stakeClone](https://github.com/dhruvinjs/stakeClone) - Building a stake clone using the MERN stack. ⭐️ 2 stars, Primary Language: JavaScript
+
+## GitHub Stats
+
+🌟 Public Repositories: 10  
+👥 Followers: 1  
+👤 Following: 0  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvinjs&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed to [ClothEcommerce](https://github.com/dhruvinjs/ClothEcommerce) - Seller dashboard logout working.  
+- Updated README in [ClothEcommerce](https://github.com/dhruvinjs/ClothEcommerce).  
+- Pushed to [WatchEcom](https://github.com/dhruvinjs/WatchEcom) - frontend updates.  
+- Updated README in [dhruvinjs](https://github.com/dhruvinjs/dhruvinjs).
+
+## Latest Blog Posts
+
+I write blogs on various technologies and its topics 
+Here is the repo where you can find my blogs
+https://github.com/dhruvinjs/Blogs
+
+## Connect with Me
+
+mail=dhruvin1055@gmail.com
