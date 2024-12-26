@@ -29,8 +29,7 @@ I'm based in Pune, Maharashtra, and I have a strong dedication to learning and i
 - [ClothEcommerce](https://github.com/dhruvinjs/ClothEcommerce) - A simple e-commerce website. ⭐️ 0 stars, Primary Language: JavaScript
 - [WatchEcom](https://github.com/dhruvinjs/WatchEcom) - An e-commerce platform for watches. ⭐️ 0 stars, Primary Language: JavaScript
 - [ExpenseTrackerApi](https://github.com/dhruvinjs/ExpenseTrackerApi) - Backend public APIs for expense tracking. ⭐️ 0 stars, Primary Language: JavaScript
-- [Blogs](https://github.com/dhruvinjs/Blogs) - A repository designed to strengthen foundational skills in various programming languages. ⭐️ 3 stars, Primary Language: Not specified
-- [stakeClone](https://github.com/dhruvinjs/stakeClone) - Building a stake clone using the MERN stack. ⭐️ 2 stars, Primary Language: JavaScript
+-More projects coming soon
 
 ## GitHub Stats
 
