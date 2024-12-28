@@ -38,13 +38,6 @@ I'm based in Pune, Maharashtra, and I have a strong dedication to learning and i
 👤 Following: 0  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvinjs&show_icons=true&theme=radical)
 
-## Recent Activity
-
-- Pushed to [ClothEcommerce](https://github.com/dhruvinjs/ClothEcommerce) - Seller dashboard logout working.  
-- Updated README in [ClothEcommerce](https://github.com/dhruvinjs/ClothEcommerce).  
-- Pushed to [WatchEcom](https://github.com/dhruvinjs/WatchEcom) - frontend updates.  
-- Updated README in [dhruvinjs](https://github.com/dhruvinjs/dhruvinjs).
-
 ## Latest Blog Posts
 
 I write blogs on various technologies and its topics 
@@ -52,5 +45,6 @@ Here is the repo where you can find my blogs
 https://github.com/dhruvinjs/Blogs
 
 ## Connect with Me
+LinkedIn=www.linkedin.com/in/dhruvinj-soni
+Mail=dhruvin1055@gmail.com
 
-mail=dhruvin1055@gmail.com
