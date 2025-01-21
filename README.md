@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Dhruvin, a passionate coding enthusiast with a goal of becoming a honored one in software development
+I'm Dhruvin, a passionate coding enthusiast with a goal of becoming a honored one in software development!
 
 ## About Me
 
@@ -26,10 +26,9 @@ I'm based in Pune, Maharashtra, and I have a strong dedication to learning and i
 
 ## Top Projects
 
+- [Uber-Clone](https://github.com/dhruvinjs/Uber-Clone) - A fully functional Uber-clone with some added functionalities. ⭐️ 0 stars, Primary Language: JavaScript
 - [ClothEcommerce](https://github.com/dhruvinjs/ClothEcommerce) - A simple e-commerce website. ⭐️ 0 stars, Primary Language: JavaScript
-- [WatchEcom](https://github.com/dhruvinjs/WatchEcom) - An e-commerce platform for watches. ⭐️ 0 stars, Primary Language: JavaScript
-- [ExpenseTrackerApi](https://github.com/dhruvinjs/ExpenseTrackerApi) - Backend public APIs for expense tracking. ⭐️ 0 stars, Primary Language: JavaScript
--More projects coming soon
+- More exciting projects coming soon 
 
 ## GitHub Stats
 
@@ -46,5 +45,5 @@ https://github.com/dhruvinjs/Blogs
 
 ## Connect with Me
 LinkedIn=www.linkedin.com/in/dhruvinj-soni
-Mail=dhruvin1055@gmail.com
+Mail=dhruvinjs.me@gmail.com
 
