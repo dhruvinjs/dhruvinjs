@@ -34,10 +34,6 @@ For me, coding isn't just a job—it's a genuine passion. I'm deeply dedicated t
 - [BrainVault](https://brain-vault-eight.vercel.app/) - Brain Vault is a full-stack notes and content bookmarking application that allows users to store, organize, and share personal knowledge (“brains”) containing notes, links, tweets, and videos. It includes Google OAuth authentication and a React + Node.js architecture with Zustand-based state management
 - More exciting projects coming soon..
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvinjs&show_icons=true&theme=radical)
-
 ## Latest Blog Posts
 
 I write blogs on various technologies and its topics 
