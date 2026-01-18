@@ -30,8 +30,8 @@ For me, coding isn't just a job—it's a genuine passion. I'm deeply dedicated t
 
 ## Top Projects
 
-- [BrainVault](https://brain-vault-eight.vercel.app/) - Brain Vault: A full-stack, Node.js and React/Zustand-powered Smart Content Bookmarking platform designed as a productivity hack to centralize and streamline personal knowledge management of links, tweets, and videos.
-- [ChessMasters-Game](https://github.com/dhruvinjs/Uber-Clone) - A full-stack, real-time multiplayer chess platform using PostgreSQL/Prisma for durable storage and Redis/WebSockets for low-latency gameplay, complete with fluid front-end animations via Framer Motion.
+- [ChessVerse-Game](https://github.com/dhruvinjs/ChessVerse) - ChessVerse is a real-time multiplayer chess application where players can compete online, play as guests, and keep their game history after signing up. It uses WebSockets for live gameplay, Redis for fast matchmaking, and a backend architecture that reuses game rooms and strictly manages game states to efficiently handle many concurrent matches. The backend is containerized using Docker and orchestrated with Docker Compose for consistent deployment and local setup.
+- [BrainVault](https://brain-vault-eight.vercel.app/) - Brain Vault is a full-stack notes and content bookmarking application that allows users to store, organize, and share personal knowledge (“brains”) containing notes, links, tweets, and videos. It includes Google OAuth authentication and a React + Node.js architecture with Zustand-based state management
 - More exciting projects coming soon..
 
 ## GitHub Stats
