@@ -39,7 +39,7 @@ For me, coding isn’t just a job—it’s something I take seriously. I focus o
 I write blogs on various technologies and its topics 
 Here is my medium profile where you can find my blogs
 <br>
-https://medium.com/@s1062212146
+https://medium.com/@dhruvinjs
 
 ## Connect with Me
 LinkedIn=www.linkedin.com/in/dhruvinj-soni <br>
