@@ -1,10 +1,10 @@
-## Hi there! 👋
+## Hi there! 
 
-I'm Dhruvin, a passionate coder set on becoming an honored software developer.<br>
+I’m Dhruvin, a developer who cares less about buzzwords and more about really understanding backend systems and DevOps..<br>
 
 ## About Me
 
-For me, coding isn't just a job—it's a genuine passion. I'm deeply dedicated to always learning and leveling up my programming skills. I love diving into new technologies and building exciting projects. I accelerate my mastery through continuous focused challenges, like deep dives into the <b>Linux ecosystem</b>, and by embracing a <b>'fail fast' approach to quickly learn and iterate from every mistake</b>.
+For me, coding isn’t just a job—it’s something I take seriously. I focus on continuously improving my skills by building real projects, exploring new technologies, and doing deep dives into areas like the Linux ecosystem. I learn fast by experimenting, breaking things, and iterating on mistakes.
 
 
 ## Skills & Technologies
@@ -42,6 +42,6 @@ Here is my medium profile where you can find my blogs
 https://medium.com/@s1062212146
 
 ## Connect with Me
-LinkedIn=www.linkedin.com/in/dhruvinj-soni
+LinkedIn=www.linkedin.com/in/dhruvinj-soni <br>
 Mail=dhruvinjs.me@gmail.com
 
